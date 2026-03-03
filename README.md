@@ -1,6 +1,5 @@
 # Telco Customer Churn Analysis
 
-#### by Simran Karmali
 
 ### Project Overview
 This project explores and analyzes the Telco Customer Churn dataset from Kaggle to understand churn behavior and build a model to predict customer retention. It involves data cleaning, interactive dashboarding, and machine learning classification using the Random Forest algorithm.
